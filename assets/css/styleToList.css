@@ -1,0 +1,37 @@
+/* 
+---------------------------------------------
+header detail Style
+--------------------------------------------- 
+*/
+.footHead {
+    background-image: url(../images/header-bg.png);
+    margin-top: 0 !important;
+    height: 250px;
+}
+.footHead .section-heading{
+    left: -25%;
+    top: -100px;
+   
+} 
+.footHead h4{
+    font-size: 50px !important;
+}
+  /* 
+---------------------------------------------
+header detail Style
+--------------------------------------------- 
+*/
+  /* 
+---------------------------------------------
+information detail Style
+--------------------------------------------- 
+*/
+.infor-section{
+    margin-top: 15px;
+}
+.infor-section p{
+    color: black !important;
+}
+.landing-block-card{
+    padding:30px;
+}
